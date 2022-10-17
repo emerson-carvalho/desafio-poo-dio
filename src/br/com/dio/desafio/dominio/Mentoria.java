@@ -1,8 +1,6 @@
 package br.com.dio.desafio.dominio;
 
-import java.text.SimpleDateFormat;
 import java.time.LocalDate;
-import java.time.format.DateTimeFormatter;
 
 public class Mentoria extends Conteudo{
 
